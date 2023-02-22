@@ -1,0 +1,4 @@
+﻿  OS09_04.cpp
+D:\Education\3 курс 2 сем\OS\Lab9\OS09_04\OS09_04\OS09_04.cpp(86,55): warning C4244: аргумент: преобразование "LONGLONG" в "DWORD", возможна потеря данных
+D:\Education\3 курс 2 сем\OS\Lab9\OS09_04\OS09_04\OS09_04.cpp(103,25): warning C4018: >: несоответствие типов со знаком и без знака
+  OS09_04.vcxproj -> D:\Education\3 курс 2 сем\OS\Lab9\OS09_04\OS09_04\x64\Debug\OS09_04.exe
